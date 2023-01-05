@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    /* background-color: var(--dark-primary-color); */
+    font-size: 16px;
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+
+:root {
+    /* CORES */
+    --dark-primary-color: #ffa000;
+    --light-primary-color: #fffcb3;
+    --primary-color: #ffc107;
+    --text-and-icon: #212121;
+    --accent-color: #ffc107;
+    --primary-text:  #212121;;
+    --second-text: #757575;
+    --divider-color: #bdbdbd;
+    --bg-button: #176902;
+    /* FONTES*/
+    --font-size-larger: 78px;
+    --font-size-big: 56px;
+    --font-size-mid: 26px;
+}

@@ -1,0 +1,11 @@
+footer {
+    background-color: var(--primary-color);
+    display: flex;
+    align-items: center;
+
+}
+
+footer span{
+    color: #fff;
+    margin-left: 46px;
+}
