@@ -1,7 +1,7 @@
 h1{
     font-size: var(--font-size-big);
     color: var(--dark-primary-color);
-    margin: 104px 122px 69px;
+    margin: 8% 10% 6% ;
     
 }
 
@@ -13,28 +13,4 @@ h1{
 
 
 }
-.card-receita{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 
-.card-receita strong {
-    font-size: var(--font-size-mid);
-    margin: 12px;
-}
-
-.card-receita button {
-    color: #fff;
-    font-weight: 700;
-    font-size: 24px;
-    border:0;
-    background-color: var(--bg-button);
-    width: 185px;
-    height: 48px; 
-}
-
-.card-receita button:hover{
-    cursor: pointer;
-
-}
